@@ -1,0 +1,11 @@
+{
+  "name": "ts_assignment_2",
+  "version": "1.0.0",
+  "description": "This is third assignment of typescript programing claaaass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naeem Goraya",
+  "license": "ISC"
+}
